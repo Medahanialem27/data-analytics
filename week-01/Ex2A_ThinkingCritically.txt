@@ -1,0 +1,47 @@
+1. Before doing any other investigation, list two or three questions that thi
+
+s infographic and explanation of methodology raise in your mind.
+
+Answer:1. How do we know the people searching for these foods had experienced a breakup?
+2. Does searching for a food mean someone actually ate it?
+3. Could people be searching for these foods for other reasons, such as finding recipes or restaurants?
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+Answer: https://trends.google.com/
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food, topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and change the date range to February 1, 2024 through February 28, 2025.
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+Answer: 100.
+
+b) What is the lowest dip recorded?
+Answer: 63.
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the lowest dip?
+Answer: The highest peak is 100, and the lowest dip is 69.
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+Answer: The Milkshake line moved lower on the chart. Its highest value is now 34, and its lowest value is 22.
+5. Why did the line for Milkshake change?
+
+Answer: Google Trends uses a relative scale from 0 to 100. When I added Hamburger, both foods were compared on the same scale. Hamburger had more search interest, so its peak became 100 and Milkshake's values became lower. This does not mean Milkshake searches actually decreased.
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+Answer: I do not see a clear, consistent relationship. Hamburger searches peak when Breakup searches are relatively low.
+
+b) How about between Breakup and Milkshake?
+Answer: Some changes look similar, but the lines do not consistently move together. Milkshake searches rise near the end while Breakup searches stay fairly steady. This does not show a clear relationship.
+7. What does all of this suggest about the reliability of the conclusions reached in the article?
+
+Answer: The article's conclusions are not well supported by the search data. Searching for a food does not mean someone ate it after a breakup. People may search for recipes or restaurants for many other reasons. The graphs also do not show a clear, consistent relationship between breakup searches and food searches. A survey of people who experienced breakups would provide better evidence.
+8. Which states are ranked first in the compared breakdown by subregion for Milkshake and Hamburger?
+
+Answer:
+Milkshake: Delaware.
+Hamburger: South Dakota.
+9. Download the subregion data as a CSV file.
+
+Answer: I downloaded the CSV and saved it in week-01 as GTrends_milkshake_hamburger_2024.csv.
