@@ -1,0 +1,101 @@
+Exercise 3.A Reviewing Survey Results
+Netsanet Aweke
+
+1. What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+What conclusion can you reach about the responses to this question?
+Most students plan to check their technology, open class materials, and join Zoom early. Several also plan to review notes and prepare their notebooks.
+
+Is the default summary or visualization helpful? How could it be improved?
+The word cloud shows common words, but it does not clearly show how many students plan each activity. A bar chart of activities, such as checking technology, reviewing notes, and joining Zoom early, would be more helpful.
+
+For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+This question is a written-response question, so there is no separate “Other” option.
+
+For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+Students use different words for similar activities. Some answers include several activities, while one answer only says “5,” which is unclear. The responses need to be read and grouped carefully.
+
+Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+Ask: “Which activities will you do before class? Select all that apply.” Include checking technology, joining Zoom, opening class materials, reviewing notes, preparing supplies, and Other with a text box.
+
+2. Do you have a second monitor connected to your computer?
+
+What conclusion can you reach about the responses to this question?
+After grouping answers with the same meaning, 10 students answered Yes, 13 answered No, and 1 answered Maybe. Most students do not have a second monitor.
+
+Is the default summary or visualization helpful? How could it be improved?
+The chart shows 2 Yes, 13 No, and 9 Other. However, eight Other responses also mean Yes. Grouping similar answers before creating a bar chart would show the results more accurately.
+
+For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+The actual text is available in the downloaded Excel file. Different wording creates separate categories. For example, “Yes” and “Yes, I have a second monitor.” mean the same thing. “Maybe” needs clarification.
+
+For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+This is mainly a choice question, but the Other responses need to be read and grouped by meaning to avoid incorrect counts.
+
+Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+Ask: “Do you currently have a second monitor available for class?” Use clear options: Yes, No, and Not sure.
+3. Do you have an external keyboard and mouse?
+
+What conclusion can you reach about the responses to this question?
+After grouping similar answers, 8 students reported having both an external keyboard and mouse, 13 answered No, 2 reported having a mouse only, and 1 answered Maybe. Most students answered No, but that does not tell us whether they have one of the two devices.
+
+Is the default summary or visualization helpful? How could it be improved?
+The chart shows 2 Yes, 13 No, and 9 Other. Six Other responses also mean Yes. A bar chart with categories for both devices, mouse only, keyboard only, neither, and unsure would be clearer after collecting those details.
+
+For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+The actual text is available in the downloaded Excel file. Similar answers use different wording. Some students have a mouse only, so their responses should not be grouped with students who have both devices.
+
+For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+The Other responses need careful reading. “No” is also unclear because the question asks about two devices together.
+
+Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+Split it into two questions: “Do you have an external keyboard?” and “Do you have an external mouse?” Give each question Yes, No, and Not sure options.
+4. How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else?
+
+What conclusion can you reach about the responses to this question?
+After grouping similar answers, 10 students plan to use pen and paper, 8 plan to use a computer, 5 plan to use both, and 1 plans to use an iPad. Pen and paper is the largest single group.
+
+Is the default summary or visualization helpful? How could it be improved?
+The chart shows 1 pen-and-paper response and 23 Other responses. This hides the different note-taking methods. A bar chart showing the four grouped categories would be more useful.
+
+For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+The actual text is available in the downloaded Excel file. Similar answers have different wording. For example, some students mention a designated notebook. “Both” and “A and B” also need to be interpreted using the question’s options.
+
+For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+The Other responses need to be grouped carefully. Extra words, symbols, and different formats can make similar answers appear different.
+
+Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+Ask: “What will be your main note-taking method?” Offer Computer, Pen and paper, Both computer and paper, Tablet, and Other with a text box.
+
+5. What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+What conclusion can you reach about the responses to this question?
+Students have questions about programming languages, AI, careers, hands-on practice, and succeeding in the course. My question was about using Excel with real-world data and explaining my findings clearly. Some students have no questions. There are 23 responses and one blank answer.
+
+Is the default summary or visualization helpful? How could it be improved?
+The word cloud shows common words, but it does not clearly explain the students’ questions. Grouping answers by topic and showing a bar chart would be more helpful.
+
+For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+This question has no Other option. The full written answers are available in the downloaded Excel file.
+
+For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+Students use different words, and some responses include several topics. We need to read each answer carefully. Answers saying “no questions” or “N/A,” and blank answers, need separate categories.
+
+Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+Ask students to choose a topic first: Technical skills, AI, Careers, Course expectations, Equipment, Other, or No questions right now. Then provide a text box for their specific question.
+6. Is there anything that surprised you about the survey responses?
+
+I was surprised that different wording made similar answers appear under Other. This showed me why it is important to read the actual responses before drawing conclusions from a chart.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+
+Five minutes before class, I will join the Zoom meeting and make sure all my devices are ready. I could also review my notes and open the class materials beforehand. I am curious about how to use the skills we learn in a real data analyst job.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+I would provide clear instructions that students can follow using one screen because most students do not have a second monitor. I would include hands-on practice, review activities, and real workplace examples. I would also address students’ questions about AI, programming languages, and career opportunities.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+
+An anonymous survey can help students feel comfortable sharing honest questions and concerns. However, the instructor cannot identify which students need equipment or individual help. I would keep the survey anonymous and offer a separate way for students to request support.
+Some responses show names while others say “anonymous,” so the results I reviewed are not fully anonymous.
