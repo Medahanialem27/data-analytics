@@ -1,0 +1,23 @@
+Exercise 3.B: Exploring Public Data
+Netsanet Aweke
+1. Start by reviewing the data.gov home page. What is this?
+Data.gov is the U.S. government's open data website. It helps people find datasets, tools, and resources for research, creating applications, and making data visualizations.
+
+2) Go to Most Viewed Datasets. How many datasets are listed?
+The page lists 583,995 datasets, sorted by popularity.
+3. Find the Topic Category for Human Health. Review the range of data sources available for this topic. Why do you think these were tagged with the Human Health category?
+
+I could not find the Topic Category filter on the current page, so I searched for “human health.” Results included the National Death Index, COVID-19 death statistics, Chicago Food Inspections, and EPA Superfund Site Boundaries.
+
+These datasets relate to human health because they cover deaths, food safety, and environmental conditions that may affect health. A Human Health category would help people find related information from different organizations. My keyword search does not confirm that each result has that category tag.
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you navigate to additional datasets from the USDA?
+
+Click the Department of Agriculture link below the dataset title. This opens the organization’s page, where I can browse or search for more USDA datasets.
+5) I opened the organization's page to explore datasets by organization, then put Oakland, Alameda, and California 
+6) I searched for Oakland, Alameda, and California. Oakland and Alameda each returned 0 organizations. California returned three organizations: City of Los Angeles, City of San Francisco, and State of California.
+77) Searching for “food composition” returned 13 results, while “nutrition” returned 211 results. Changing the keywords changed the number of results. Trying different search terms can help me find more relevant datasets.
+8-A Searching for butter returned different types of butter and foods containing butter. Clicking “Butter, salted” opened a details page showing its food category, portion size, and nutrients, including energy, protein, fat, and carbohydrates.
+8-B Available downloads include Foundation Foods, SR Legacy, FNDDS, Branded Foods, and a full download of all data types. Files are available in CSV and JSON formats.
+For Foundation Foods (April 2026), the JSON file is 459 KB zipped and 6.5 MB unzipped. The CSV file is 3.7 MB zipped and 32 MB unzipped.
+More information is available through the “data type documentation” link and the Download Field Descriptions PDF.#
+
