@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "start_time": "10/16/26 18:19",
+    "completion_time": "10/16/26 18:20",
+    "email": "anonymous",
+    "name": "",
+    "visit_frequency": "This is my first visit.",
+    "visit_rating": 5,
+    "usual_order": "Iced coffee.",
+    "reward": "Free drink.",
+    "likelihood": "Somewhat likely.",
+    "improvement_suggestion": "More iced coffe options"
+  },
+  {
+    "id": 2,
+    "start_time": "10/18/26 16:06",
+    "completion_time": "10/18/26 16:07",
+    "email": "anonymous",
+    "name": "",
+    "visit_frequency": "This is my first visit.",
+    "visit_rating": 3,
+    "usual_order": "Coffee.",
+    "reward": "Free drink.",
+    "likelihood": "Very likely.",
+    "improvement_suggestion": ""
+  },
+  {
+    "id": 3,
+    "start_time": "10/18/26 19:20",
+    "completion_time": "10/18/26 19:51",
+    "email": "anonymous",
+    "name": "",
+    "visit_frequency": "Less than once a month.",
+    "visit_rating": 5,
+    "usual_order": "Coffee.",
+    "reward": "Free drink.",
+    "likelihood": "Somewhat likely.",
+    "improvement_suggestion": "Service speed"
+  },
+  {
+    "id": 4,
+    "start_time": "10/18/26 20:48",
+    "completion_time": "10/18/26 20:49",
+    "email": "anonymous",
+    "name": "",
+    "visit_frequency": "Once a week.",
+    "visit_rating": 4,
+    "usual_order": "Hot chocolate.",
+    "reward": "Free food.",
+    "likelihood": "Very likely.",
+    "improvement_suggestion": "N/A"
+  },
+  {
+    "id": 5,
+    "start_time": "10/18/26 21:28",
+    "completion_time": "10/18/26 21:29",
+    "email": "anonymous",
+    "name": "",
+    "visit_frequency": "This is my first visit.",
+    "visit_rating": 4,
+    "usual_order": "Iced coffee.",
+    "reward": "Free drink.",
+    "likelihood": "Neither likely nor unlikely",
+    "improvement_suggestion": "More menu options"
+  }
+]-
