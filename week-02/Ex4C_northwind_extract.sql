@@ -5,7 +5,7 @@ SELECT * FROM employees;
 
 -- Margaret Peacock is the employee whose name sounds like a bird.
 SELECT * FROM categories;
-
+-- Seafood category ID is 8.
 SELECT OrderID, OrderDate, ShipName, ShipCountry
 FROM orders
 LIMIT 50;
